@@ -5,3 +5,7 @@ static int square(int base) {
 static int squar123(int base) {
 	base * base
 }
+
+static int squar3(int base) {
+	base * base
+}
