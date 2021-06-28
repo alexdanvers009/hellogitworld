@@ -6,8 +6,8 @@ import static Sum.sum
 def name = "Matthew"
 int programmingPoints = 10
 
-println "Hello ${name}"
-println "${name} has at least ${programmingPoints} programming points."
+println "Hello there ${name}"
+println "we will be giving you ${programmingPoints} programming points."
 println "${programmingPoints} squared is ${square(programmingPoints)}"
 
 println "${programmingPoints} squared is ${square(programmingPoints)}"
